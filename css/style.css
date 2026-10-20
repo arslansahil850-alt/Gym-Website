@@ -288,7 +288,7 @@ p {
   justify-content: center;
   overflow: hidden;
   border-radius: 6px;
-  background: var(--primary);
+  background: transparent;
 }
 
 .brand-logo img {
